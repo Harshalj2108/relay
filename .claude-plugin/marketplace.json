@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "relay",
+  "description": "Three-model routing for Claude Code: Sonnet builds, Opus advises at checkpoints, Haiku does the chores.",
+  "owner": {
+    "name": "Harshal Joshi",
+    "url": "https://github.com/Harshalj2108"
+  },
+  "plugins": [
+    {
+      "name": "relay",
+      "description": "Sonnet leads, Opus advises at enforced checkpoints, Haiku runs commits and chores, and /relay:savings shows what it saved.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

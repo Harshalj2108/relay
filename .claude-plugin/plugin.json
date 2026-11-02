@@ -1,0 +1,12 @@
+{
+  "name": "relay",
+  "version": "0.1.0",
+  "description": "Three-model routing for Claude Code: Sonnet builds, Opus advises at checkpoints, Haiku does the chores.",
+  "author": {
+    "name": "Harshal Joshi",
+    "url": "https://github.com/Harshalj2108"
+  },
+  "repository": "https://github.com/Harshalj2108/relay",
+  "license": "MIT",
+  "keywords": ["model-routing", "advisor", "sonnet", "opus", "haiku", "cost"]
+}
